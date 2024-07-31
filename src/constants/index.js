@@ -17,7 +17,11 @@ export const navigation = [
     url: "/#vehicles",
   },
 
- 
+  {
+    id: "1",
+    title: "Pricing",
+    url: "/#pricing",
+  },
 
   {
     id: "2",
